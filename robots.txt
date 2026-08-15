@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ua1x8y.cuansalam.sbs/sitemap.xml
